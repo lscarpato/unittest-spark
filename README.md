@@ -4,7 +4,7 @@
 Projeto de exemplo de aplicação de teste unitário no Apache Spark.
 
 
-####Pré Requisitos:
+####Configuração do Ambiente:
 
 * Apache Spark 1.5 (configuração local para rodar os testes)
 * Python 2.7 (Anaconda 2)
