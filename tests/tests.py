@@ -24,7 +24,6 @@ from pyspark.mllib.linalg import Vectors
 from pylab import plot,show,hist,figure,title
 from pyspark.sql.window import Window
 import unittest2
-import application
 import os, inspect
 
 
@@ -43,6 +42,7 @@ class Testsitapl02(unittest2.TestCase):
         self.sc.stop()
     
     def test_such_as_original_code(self):
+        print 'luciana'
     
              
         
